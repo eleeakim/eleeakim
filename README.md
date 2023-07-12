@@ -6,5 +6,5 @@ I am a Software Developer with expertise in various programming languages and so
 
 📫 Say hi -> [eleeakim@gmail.com](mailto:eleeakim@gmail.com)
 
-📄 Read my Articles -> https://www.eleeakim.hashnode.dev
+📄 Read my Articles -> https://www.eliakim.hashnode.dev
 
