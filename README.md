@@ -2,7 +2,7 @@
 
 I am a Software Developer with expertise in various programming languages and software tools.I have a background in technical training and experience in Instructional roles and IT support.
 
-🌱 I’m currently learning JavaScript fundamentals course at [The Odin Project] ((https://www.theodinproject.com)) 
+🌱 I’m currently learning JavaScript fundamentals course at ([The Odin Project] (https://www.theodinproject.com)) 
 
 📫 Say hi -> [eleeakim@gmail.com](mailto:eleeakim@gmail.com)
 
